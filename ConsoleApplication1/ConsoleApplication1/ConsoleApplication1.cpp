@@ -5,7 +5,10 @@
 
 int main()
 {
-    std::cout << "Hello World!\n";
+    int add = 0;
+    int mm = 1;
+    int sure = add + mm;
+    std::cout << sure;
 }
 
 // 运行程序: Ctrl + F5 或调试 >“开始执行(不调试)”菜单
